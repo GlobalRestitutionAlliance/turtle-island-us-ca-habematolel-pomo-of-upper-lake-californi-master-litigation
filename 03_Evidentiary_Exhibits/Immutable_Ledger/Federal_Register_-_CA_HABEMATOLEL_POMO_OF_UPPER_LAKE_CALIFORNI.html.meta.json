@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+HABEMATOLEL+POMO+OF+UPPER+LAKE+CALIFORNI",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+HABEMATOLEL+POMO+OF+UPPER+LAKE+CALIFORNI",
+  "title": "Federal Register - CA HABEMATOLEL POMO OF UPPER LAKE CALIFORNI",
+  "fetched_at": "2026-11-23T17:55:58.125333Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "ba73adb50ca1d7d4c35b822c0fa9e929cd6a9ef72e9cb0a2b2451d118173bd2a",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
